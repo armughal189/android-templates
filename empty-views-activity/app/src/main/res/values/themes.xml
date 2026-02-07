@@ -1,0 +1,6 @@
+<resources>
+  <style name="Base.Theme.EmptyViewsActivity" parent="Theme.Material3.DayNight.NoActionBar">
+  </style>
+
+  <style name="Theme.EmptyViewsActivity" parent="Base.Theme.EmptyViewsActivity" />
+</resources>
