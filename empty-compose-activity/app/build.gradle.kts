@@ -4,15 +4,15 @@ plugins {
 }
 
 android {
-  namespace = "io.armughal189.empty_compose_activity"
+  namespace = "io.multidev134.empty_compose_activity"
   compileSdk {
     version = release(36)
   }
 
   defaultConfig {
-    applicationId = "io.armughal189.empty_compose_activity"
+    applicationId = "io.multidev134.empty_compose_activity"
     minSdk = 28
-    targetSdk = 36
+    targetSdk = 37
     versionCode = 1
     versionName = "1.0.0"
   }

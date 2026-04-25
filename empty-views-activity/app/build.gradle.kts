@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-  namespace = "io.armughal189.empty_views_activity"
+  namespace = "io.multidev134.empty_views_activity"
   compileSdk {
     version = release(36)
   }
 
   defaultConfig {
-    applicationId = "io.armughal189.empty_views_activity"
+    applicationId = "io.multidev134.empty_views_activity"
     minSdk = 28
-    targetSdk = 36
+    targetSdk = 37
     versionCode = 1
     versionName = "1.0.0"
   }
@@ -34,6 +34,7 @@ android {
 
 dependencies {
   implementation(libs.androidx.core.ktx)
+  implementation(libs.androidx.lifecycle.runtime.ktx)
   implementation(libs.material)
   implementation(libs.androidx.activity)
 }

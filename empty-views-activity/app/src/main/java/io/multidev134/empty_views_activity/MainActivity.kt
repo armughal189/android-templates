@@ -1,4 +1,4 @@
-package io.armughal189.empty_views_activity
+package io.multidev134.empty_views_activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
